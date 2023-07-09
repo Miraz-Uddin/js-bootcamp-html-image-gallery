@@ -1,0 +1,58 @@
+<!-- PROJECT LOGO -->
+<br />
+ <p align="center">
+    <img src="./logo.png" alt="Logo" width="207" height="47" />
+    <h3 align="center "><a href="https://image-gallery-v1-by-miraz.netlify.app" target="_blank" >Image Gallery Project</a></h3>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+
+## ![tableOfContent][tableofcontent-shield] Table of Contents
+
+| CODE RUN                   | CONTACT                    |
+| -------------------------- | -------------------------- |
+| [How to run](#-how-to-run) | [Contact us](#-contact-us) |
+
+<br>
+
+<!-- GET HTML TEMPLATE -->
+
+## ![htmlIcon][htmlicon-shield] Get HTML Template
+
+1. Login to the GitHub account on which you have been granted access to this repository.
+
+2. Clone this repository
+   ```sh
+   git clone https://github.com/Miraz-Uddin/js-bootcamp-html-image-gallery.git
+   ```
+3. Go to the cloned project directory
+   ```sh
+   cd js-bootcamp-html-image-gallery
+   ```
+4. Checkout/switch to branch 1.1
+   ```sh
+   git checkout v1
+   ```
+5. Just run the index.html file with Visual Studio Code [Live Server plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+
+<br>
+
+<br>
+
+<!-- CONTACT  -->
+
+## ![contactIcon][contacticon-shield] Contact Me
+
+[![Facebook][facebook-shield]][facebook-url]
+[![mail][mail-shield]][mail-url]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
+[facebook-url]: https://www.facebook.com/profile.php?id=100083946927748
+[thumbnail-shield]: https://i.ibb.co/d6hxnvd/Screenshot-50.png
+[mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-mirazuddin0623%40gmail.com-blueviolet
+[mail-url]: mailto:mirazuddin0623@gmail.com
+[tableofcontent-shield]: https://img.icons8.com/external-flatart-icons-flat-flatarticons/28/undefined/external-direction-business-and-teamwork-flatart-icons-flat-flatarticons.png
+[htmlicon-shield]: https://img.icons8.com/external-flaticons-flat-flat-icons/28/undefined/external-html-computer-programming-flaticons-flat-flat-icons.png
+[contacticon-shield]: https://img.icons8.com/external-flaticons-lineal-color-flat-icons/28/undefined/external-support-communication-media-flaticons-lineal-color-flat-icons.png
