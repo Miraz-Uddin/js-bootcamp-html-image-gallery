@@ -1,4 +1,3 @@
-<!-- PROJECT LOGO -->
 <br />
  <p align="center">
     <img src="./logo.png" alt="Logo" width="207" height="47" />
@@ -29,13 +28,21 @@
    ```sh
    cd js-bootcamp-html-image-gallery
    ```
-4. Checkout/switch to branch 1.1
+4. Checkout/switch to branch "v1"
    ```sh
    git checkout v1
    ```
 5. Just run the index.html file with Visual Studio Code [Live Server plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
 <br>
+
+<!-- LIVE LINK  -->
+
+## ![liveLinkIcon][live-link-icon-shield] LIVE LINK
+
+#### Version 01: https://image-gallery-v1-by-miraz.netlify.app
+
+#### Version 02: https://image-gallery-v2-by-miraz.netlify.app
 
 <br>
 
@@ -56,3 +63,4 @@
 [tableofcontent-shield]: https://img.icons8.com/external-flatart-icons-flat-flatarticons/28/undefined/external-direction-business-and-teamwork-flatart-icons-flat-flatarticons.png
 [htmlicon-shield]: https://img.icons8.com/external-flaticons-flat-flat-icons/28/undefined/external-html-computer-programming-flaticons-flat-flat-icons.png
 [contacticon-shield]: https://img.icons8.com/external-flaticons-lineal-color-flat-icons/28/undefined/external-support-communication-media-flaticons-lineal-color-flat-icons.png
+[live-link-icon-shield]: https://img.icons8.com/nolan/28/domain.png
